@@ -97,8 +97,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
-	
+	{youtube: "Htaj3o3JD8I", name: "Freedom Networks - Harry Potter Theme"},
+	{youtube: "QoitiIbdeaM", name: "Freedom Networks - Owl City - Fireflies"},
+
 ];
 
 /*Random music order?*/
@@ -117,15 +118,15 @@ var l_messages = [
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
 	"Mingeing In This Server Will Result In A Perma Ban!",
         "Please Dont Disconnect From Freedom Networks Get To Know Us More!",
-        "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
-        "Invite Your Friends For Your Chance To Win VIP!",
+        "Please DO Not Mic/Spam Your Mic!",
+        "No-Meta-Gaming!",
         "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
-        "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
+        "Obey The Staff & RP Leaders!",
         "Crashing The Server Will Get Your Ip Banned!",
         "Welcome Your In Freedom Networks!",
-        "Do not build inside unowned buildings!",
+        "Be Respectful!",
         "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
         "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
@@ -133,7 +134,7 @@ var l_messages = [
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "You cannot kill yourself to evade a roleplay situation!",
-        "Bullying Is Not Tolerated Respect All Players!"
+        "Please No Fail RP!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
