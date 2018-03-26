@@ -106,6 +106,7 @@ var l_musicPlaylist = [
         {youtube: "FslbUV7Atdc", name: "Freedom Networks - Hogwarts Castle"},
         {youtube: "iG9Islm9BdI", name: "Freedom Networks - Hogwarts Grounds"},
         {youtube: "SuViQeyFp7I", name: "Freedom Networks - Hogwarts Grounds at Night"},
+        {youtube: "wkYY46wkG-I", name: "Freedom Networks - Waiting For Love"},
 
 ];
 
