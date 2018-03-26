@@ -63,6 +63,7 @@ var l_bgImages = [
         "image8.jpg",
         "image9.jpg",
         "image10.jpg",
+        "image11.jpg",
 
 ];
 
@@ -98,7 +99,7 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "Htaj3o3JD8I", name: "Freedom Networks - Harry Potter Theme"},
-	{youtube: "QoitiIbdeaM", name: "Freedom Networks - Owl City - Fireflies"},
+	{youtube: "bEgLvaMDT4E&t=118s", name: "Freedom Networks - Chamber of Secrets"},
 
 ];
 
@@ -127,7 +128,7 @@ var l_messages = [
         "Crashing The Server Will Get Your Ip Banned!",
         "Welcome Your In Freedom Networks!",
         "Be Respectful!",
-        "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
+        "No being an Animagus, Parseltongue  or Metamorphmagi without permisson!",
         "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
         "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server!",
