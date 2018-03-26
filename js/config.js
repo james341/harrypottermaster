@@ -99,7 +99,7 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "Htaj3o3JD8I", name: "Freedom Networks - Harry Potter Theme"},
-	{youtube: "bEgLvaMDT4E&t=118s", name: "Freedom Networks - Chamber of Secrets"},
+	{youtube: "gjy3-Nav4eU", name: "Freedom Networks - Chamber of Secrets"},
 
 ];
 
