@@ -100,6 +100,10 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "Htaj3o3JD8I", name: "Freedom Networks - Harry Potter Theme"},
 	{youtube: "gjy3-Nav4eU", name: "Freedom Networks - Chamber of Secrets"},
+        {youtube: "hCH6v1asSoc", name: "Freedom Networks - Christmas at Hogwarts"},
+        {youtube: "FslbUV7Atdc", name: "Freedom Networks - Hogwarts Castle"},
+        {youtube: "iG9Islm9BdI", name: "Freedom Networks - Hogwarts Grounds"},
+        {youtube: "SuViQeyFp7I", name: "Freedom Networks - Hogwarts Grounds at Night"},
 
 ];
 
