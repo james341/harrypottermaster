@@ -129,7 +129,7 @@ var l_messages = [
 	"Do not use your microphone to: disrupt roleplay situations by spamming unnecessary phrases, such as my man; or play music, recorded, live, vocal, or instrumental!",
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
 	"Mingeing In This Server Will Result In A Perma Ban!",
-        "Please Dont Disconnect From Freedom Networks Get To Know Us More!",
+        "Do not exploit around the set AFK system that kicks anyone who is attempting to grind for XP!",
         "Please DO Not Mic/Spam Your Mic!",
         "No-Meta-Gaming!",
         "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
