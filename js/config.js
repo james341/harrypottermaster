@@ -126,7 +126,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
+	"Do not use your microphone to: disrupt roleplay situations by spamming unnecessary phrases, such as my man; or play music, recorded, live, vocal, or instrumental!",
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
 	"Mingeing In This Server Will Result In A Perma Ban!",
         "Please Dont Disconnect From Freedom Networks Get To Know Us More!",
@@ -135,18 +135,18 @@ var l_messages = [
         "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
-        "Obey The Staff & RP Leaders!",
-        "Crashing The Server Will Get Your Ip Banned!",
+        "Students should never kill other students, teachers, Aurors, or OOTP intentionally. Accidents do happen or may be a result of crossfire, but avoid these at all costs!",
+        "Passive roleplay; you may only Owlpost your passive roleplay if you are on an acceptable job and not just to communicate globally in RP!",
         "The Hufflepuff Basement requires tapping a specific barrel in a particular rhythm. Attempts to bypass these protective measures by members of other houses are considered serious offences!",
         "Prefects may enter faculty areas if investigating another student violating this rule!",
         "No being an Animagus, Parseltongue  or Metamorphmagi without permisson!",
-        "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
+        "Do not make extremely loud sounds with your microphone or repeatedly broadcasting for an extended period of time!",
         "Do not enter the Forbidden Forest without staff supervision. If you want a scene in the forest, put in a +request (and understand that there is a very good chance that your character will not survive!",
         "Boys may not enter the girls' dormitories. Attempts to do so will trigger spells preventing it, such as a Slide Spell on the staircases in the Gryffindor and Ravenclaw rooms. The one exception to this is a male Prefect in an emergency.!",
         "Access to common rooms and dormitories is strictly controlled!",
-        "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
-        "You cannot kill yourself to evade a roleplay situation!",
-        "Please No Fail RP!"
+        "Do not attempt to clip or exploit outside of the set map boundaries. Bugs may be hidden and it may be an accident, but intentionally doing so or sharing is prohibited!",
+        "Users should not specifically target or harass another player with malicious intentions!",
+        "Do not take part in any action that would immediately break the conventions of your roleplay job. Examples can be found within the job description!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
