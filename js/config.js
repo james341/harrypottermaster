@@ -103,14 +103,14 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Htaj3o3JD8I", name: "Freedom Networks - Harry Potter Theme"},
-	{youtube: "gjy3-Nav4eU", name: "Freedom Networks - Chamber of Secrets"},
-        {youtube: "hCH6v1asSoc", name: "Freedom Networks - Christmas at Hogwarts"},
-        {youtube: "FslbUV7Atdc", name: "Freedom Networks - Hogwarts Castle"},
-        {youtube: "iG9Islm9BdI", name: "Freedom Networks - Hogwarts Grounds"},
-        {youtube: "SuViQeyFp7I", name: "Freedom Networks - Hogwarts Grounds at Night"},
-        {youtube: "wkYY46wkG-I", name: "Freedom Networks - Waiting For Love"},
-        {youtube: "qDQxUWRDtU0", name: "Freedom Networks - The Apparate"},
+	{youtube: "Htaj3o3JD8I", name: "Nations - Installation Music"},
+	{youtube: "gjy3-Nav4eU", name: "Nations - Installation Music"},
+        {youtube: "hCH6v1asSoc", name: "Nations - Installation Music"},
+        {youtube: "FslbUV7Atdc", name: "Nations - Installation Music"},
+        {youtube: "iG9Islm9BdI", name: "Nations - Installation Music"},
+        {youtube: "SuViQeyFp7I", name: "Nations - Installation Music"},
+        {youtube: "wkYY46wkG-I", name: "Nations - Installation Music"},
+        {youtube: "qDQxUWRDtU0", name: "Nations - Installation Music"},
 
 ];
 
